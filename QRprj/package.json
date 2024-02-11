@@ -1,0 +1,17 @@
+{
+  "name": "qrpr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jimp": "^0.22.10",
+    "pdf-lib": "^1.17.1"
+  }
+}
